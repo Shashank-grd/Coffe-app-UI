@@ -10,7 +10,7 @@ This project demonstrate a simple UI for Coffe store where user can order coffee
 <br><br>
 
 <p align="center">
-  <img src="https://github.com/Shashank-grd/Coffe-app-UI/blob/main/Screenshot_20240908_033815.png" alt="example1" width="200" 
+  <img src="https://github.com/Shashank-grd/Coffe-app-UI/blob/main/Screenshot_20240908_033815.png" alt="example1" width="200" </p>
 
 ## Navigate to other Screens
 
